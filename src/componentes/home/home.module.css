@@ -1,0 +1,34 @@
+.app{
+    margin-top: -50px;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.img{ 
+    width: 100%;
+    height: 120vh;
+  
+    
+ 
+}
+
+.btn {
+ 
+    padding: 11px 24px;
+    cursor: pointer;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    margin-top: -300px;
+    background-color: aqua;
+   }
+   
+
+   
+
+   .txt{
+    margin-top: 50px;
+   }
+
+
+
+

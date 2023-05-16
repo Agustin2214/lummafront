@@ -1,0 +1,23 @@
+.DivForm{
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: 60px;
+
+}
+
+.DivDrops{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: 20px;
+
+}
+
+.DivFormJr{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    
+}
